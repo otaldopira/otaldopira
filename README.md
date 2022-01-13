@@ -19,6 +19,8 @@
  	<a href="https://www.twitch.tv/otaldopira" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/rtzUm47" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "ericdenkievicz@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/otaldopira/otaldopira/blob/main/.github/workflows/main.yml)
+  
+  ![Snake animation](https://github.com/otaldopira/otaldopira/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
